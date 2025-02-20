@@ -33,7 +33,7 @@ To run the PumpFun AI Trading Bot locally, follow the steps below:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone [https://github.com/sm4rtdev/pumpfun_ai-trading-bot.git](https://github.com/sm4rtdev/Pumpfun_AI_Tradingbot)
+    git clone https://github.com/sm4rtdev/Pumpfun_AI_Tradingbot
     cd pumpfun-ai-trading-bot
     ```
 
