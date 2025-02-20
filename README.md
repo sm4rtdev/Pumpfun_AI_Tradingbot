@@ -8,7 +8,7 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹 You're always welcome 🌹
 
-Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
+Telegram: [@Elon](https://t.me/sm4rtdev) <br>
 
 ## Features
 
@@ -33,7 +33,7 @@ To run the PumpFun AI Trading Bot locally, follow the steps below:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/pumpfun-ai-trading-bot.git
+    git clone [https://github.com/sm4rtdev/pumpfun_ai-trading-bot.git](https://github.com/sm4rtdev/Pumpfun_AI_Tradingbot)
     cd pumpfun-ai-trading-bot
     ```
 
